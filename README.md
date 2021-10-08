@@ -9,6 +9,9 @@ Covid-19 is the most contagious epidemic which needs our prior attention. Since 
 We have made a website for spreading awareness of Covid using `HTML`, `CSS`, `Bootstrap` and `Javascript`.
 The site is hosted using [Github].
 
+###Speacials Features
+Added SAWO ie Secure Authentication Without OTP which give security for authentication of users
+
 ### Category Submission:
 
 The site is presented to QUARANTEAM, an event by Codeacademy under the domain healthcare.
