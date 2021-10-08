@@ -27,5 +27,5 @@ Anyone is free to use provided you give me proper credits.
 
 ### Additional Info
 
-We are looking forward to collab with creative individuals who can contribute to making the design better and improve the UX, backend and coding stuff.
+We are looking forward to collab with other creative individuals who can contribute to making the design better and improve the UX, backend and coding stuff.
 
