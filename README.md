@@ -14,7 +14,7 @@ Added SAWO ie Secure Authentication Without OTP which give security for authenti
 
 ### Category Submission:
 
-The site is presented to QUARANTEAM, an event by Codeacademy under the domain healthcare.
+The site is presented to QUARANTEAM, an event by Codecademy under the domain healthcare.
 
 ### App Link
 
